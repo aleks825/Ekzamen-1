@@ -11,7 +11,7 @@ html {
 body {
     font-family: 'Shantell Sans';
     text-align: center;
-    padding: 20px 359px;
+    padding: 20px 200px;
     color: #FF33FC;
 }
 
@@ -106,11 +106,12 @@ select, .site-search input, body {
 }
   
 .shop-item h1 {
-    font-size: 20px;
+    font-size: 0.87rem;
     margin-top: 0;
 }
   
 .shop-item p {
+    font-size: 0.65rem;
     margin-top: 0;
 }
   
